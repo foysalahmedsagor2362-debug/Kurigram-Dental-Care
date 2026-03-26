@@ -1,0 +1,7 @@
+{
+  "name": "Kurigram Dental Care",
+  "description": "Modern and professional dental clinic website for Kurigram Dental Care, providing high-quality dental services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
